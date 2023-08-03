@@ -6,5 +6,5 @@ idade=int(input("Digite a idade: "))
 
 if idade>=65:
     print("O paciente " + nome + " POSSUI atendimento prioritário")
-else
+    else
     print("O Paciente " + nome + " NÂO possui atendimento prioritário")
